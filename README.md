@@ -1,4 +1,4 @@
-# DEV
+## DEV
 
 * [iOS](https://storgaappdev002.blob.core.windows.net/downloads/default-dev/orga-app.install.html)
 * [Android](https://storgaappdev002.blob.core.windows.net/downloads/default-dev/orga-app.apk)
@@ -7,7 +7,7 @@
 * [Admin](https://orga-app-admin-dev.azurewebsites.net)
 * [API](https://api-dev.orga-app.de)
 
-# STAGING
+## STAGING
 
 * [iOS](https://storgaappstag002.blob.core.windows.net/downloads/default-dev/orga-app.install.html)
 * [Android](https://storgaappstag002.blob.core.windows.net/downloads/default-dev/orga-app.apk)
