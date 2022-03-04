@@ -7,7 +7,6 @@
 * [Admin](https://orga-app-admin-dev.azurewebsites.net)
 * [API](https://api-dev.orga-app.de)
 
-
 # STAGING
 
 * [iOS](https://storgaappstag002.blob.core.windows.net/downloads/default-dev/orga-app.install.html)
