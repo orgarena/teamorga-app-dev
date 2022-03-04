@@ -1,4 +1,4 @@
-remote_theme: orgarena/orgarena-jekyll-theme
+# remote_theme: orgarena/orgarena-jekyll-theme
 title: "ORGA App DEV"
 description: ".. dev links"
 url: "https://orgarena.github.io/orga-app-dev"
