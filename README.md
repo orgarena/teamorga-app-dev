@@ -9,8 +9,8 @@
 
 ## STAGING
 
-* [iOS](https://storgaappstag002.blob.core.windows.net/downloads/default-stag/orga-app.install.html)
-* [Android](https://storgaappstag002.blob.core.windows.net/downloads/default-stag/orga-app.apk)
+* [iOS](https://storgaappstag002.blob.core.windows.net/downloads/default-staging/orga-app.install.html)
+* [Android](https://storgaappstag002.blob.core.windows.net/downloads/default-staging/orga-app.apk)
 * [Desktop](https://client-stag.orga-app.de)
 * [Desktop SOPI](https://orga-app-stag.sopidemo.de)
 * [Admin](https://orga-app-admin-stag.azurewebsites.net)
