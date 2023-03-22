@@ -11,6 +11,5 @@
 * [API team-orga](api-dev.team-orga.app)
 * [Desktop](https://teamorga-desktop-client-dev.azurewebsites.net)
 
-* [MobileCallback](com.orgarena.teamorgaapp.dev://callback)
-* [MobileCallback1](com.orgarena.teamorgaapp.dev://locallhost/callback)
-
+<a href="com.orgarena.teamorgaapp.dev://callback">Mobile Callback </a>
+<a href="com.orgarena.teamorgaapp.dev://locallhost/callback">Mobile Callback2</a>
