@@ -10,3 +10,7 @@
 * [API](https://teamorga-api-dev.azurewebsites.net)
 * [API team-orga](api-dev.team-orga.app)
 * [Desktop](https://teamorga-desktop-client-dev.azurewebsites.net)
+
+* [MobileCallback](com.orgarena.teamorgaapp.dev://callback)
+* [MobileCallback1](com.orgarena.teamorgaapp.dev://locallhost/callback)
+
