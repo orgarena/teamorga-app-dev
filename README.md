@@ -1,6 +1,6 @@
 ## LOCAL
 
-* [API] http://localhost:4400)
+* [API](http://localhost:4400)
 * [Desktop](http://localhost:4401)
 * [Mobile](http://localhost:4402)
 * [Test](http://localhost:4410)
