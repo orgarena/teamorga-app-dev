@@ -7,14 +7,15 @@
 * [Auth Test App](http://localhost:4411)
 
 ## DEV
+
 * [API](https://teamorga-api-dev.azurewebsites.net)
 * [API team-orga](api-dev.team-orga.app)
 * [Desktop Client](https://teamorga-desktop-client-dev.azurewebsites.net)
 * [Mobile Client](https://teamorga-mobile-client-dev.azurewebsites.net)
-
 * [Android APK](https://storteamorga02dev.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile-dev.apk)
 
 ## MOBILE CALLBACKS
+
 <a href="com.orgarena.teamorgaapp.dev://callback">Mobile Callback DEV</a>
 <br/>
 <a href="com.orgarena.teamorgaapp.dev://locallhost/callback">Mobile Callback2 DEV</a>
