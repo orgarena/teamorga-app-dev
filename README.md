@@ -12,7 +12,7 @@
 * [Desktop Client](https://teamorga-desktop-client-dev.azurewebsites.net)
 * [Mobile Client](https://teamorga-mobile-client-dev.azurewebsites.net)
 
-* [Android APK](https://storteamorga02dev.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile.apk)
+* [Android APK](https://storteamorga02dev.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile-dev.apk)
 
 ## MOBILE CALLBACKS
 <a href="com.orgarena.teamorgaapp.dev://callback">Mobile Callback DEV</a>
