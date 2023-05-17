@@ -17,3 +17,10 @@
 <br/>
 <a href="com.orgarena.teamorgaapp.dev://locallhost/callback">Mobile Callback2 DEV</a>
 <br/>
+
+```
+com.orgarena.teamorgaapp.dev://callback
+com.orgarena.teamorgaapp.dev://locallhost/callback
+```
+
+
