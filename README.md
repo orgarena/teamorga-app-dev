@@ -13,8 +13,8 @@
 * [Desktop Client](https://teamorga-desktop-client-dev.azurewebsites.net)
 * [Mobile Client](https://teamorga-mobile-client-dev.azurewebsites.net)
 * [Android APK](https://storteamorga02dev.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile-dev.apk)
-* [Android APK B04 DEV](https://storteamorga02dev.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/teamorga-apps-mobile-b04dev.apk)
-* [iOS B04 DEV](https://storteamorga02dev.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/ios.install.html)
+* [B04 DEV Android](https://storteamorga02dev.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/teamorga-apps-mobile-b04dev.apk)
+* [B04 DEV iOS](https://storteamorga02dev.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/ios.install.html)
 
 ## MOBILE CALLBACKS
 
