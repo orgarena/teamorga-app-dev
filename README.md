@@ -9,14 +9,14 @@
 ## DEV
 
 * [API](https://teamorga-api-dev.azurewebsites.net)
-* [API team-orga.app](api-dev.team-orga.app)
+* [API team-orga.app](https://api-dev.team-orga.app)
 * [Desktop Client](https://teamorga-desktop-client-dev.azurewebsites.net)
 * [Mobile Client](https://teamorga-mobile-client-dev.azurewebsites.net)
 * [Android APK](https://storteamorga02dev.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile-dev.apk)
 * [B04 DEV Android](https://storteamorga02dev.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/teamorga-apps-mobile-b04dev.apk)
 * [B04 DEV iOS](https://storteamorga02dev.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/ios.install.html)
 
-## DEV
+## PROD
 
 * [API](https://teamorga-api-prod.azurewebsites.net)
 * [API team-orga.de](https://api.team-orga.de)
