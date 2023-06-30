@@ -42,3 +42,9 @@ com.orgarena.teamorgaapp.dev://locallhost/callback
 ```
 
 
+## DOMAINS
+
+* [team-orga.app](https://team-orga.app)
+* [team-orga.com](https://team-orga.com)
+* [team-orga.de](https://team-orga.de)
+* [team-orga.eu](https://team-orga.eu)
