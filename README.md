@@ -10,13 +10,15 @@ Links zur TeamORGA-App:
 
 ## DEV
 
-* [API](https://teamorga-api-dev.azurewebsites.net)
+* [API](https://api-qt6ttevvmjxhk.azurewebsites.net)
 * [API team-orga.app](https://api-dev.team-orga.app)
 * [Desktop Client](https://teamorga-desktop-client-dev.azurewebsites.net)
+* [Desktop Client team-orga.app](https://client-dev.team-orga.app)
 * [Mobile Client](https://teamorga-mobile-client-dev.azurewebsites.net)
-* [Android APK](https://storteamorga02dev.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile-dev.apk)
-* [B04 DEV Android](https://storteamorga02dev.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/teamorga-apps-mobile-b04dev.apk)
-* [B04 DEV iOS](https://storteamorga02dev.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/ios.install.html)
+* [Mobile Client team-orga.app](https://mobile-dev.team-orga.app)
+* [Android APK](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile-dev.apk)
+* [B04 DEV Android](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/teamorga-apps-mobile-b04dev.apk)
+* [B04 DEV iOS](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/ios.install.html)
 
 ## PROD
 
