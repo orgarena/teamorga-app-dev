@@ -10,11 +10,8 @@ Links zur TeamORGA-App:
 
 ## DEV
 
-* [API](https://api-qt6ttevvmjxhk.azurewebsites.net)
 * [API team-orga.app](https://api-dev.team-orga.app)
-* [Desktop Client](https://desktop-qt6ttevvmjxhk.azurewebsites.net)
 * [Desktop Client team-orga.app](https://client-dev.team-orga.app)
-* [Mobile Client](https://mobile-qt6ttevvmjxhk.azurewebsites.net)
 * [Mobile Client team-orga.app](https://mobile-dev.team-orga.app)
 * [Android APK](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile-dev.apk)
 * [B04 DEV Android](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/teamorga-apps-mobile-b04dev.apk)
