@@ -5,8 +5,8 @@ Links zur TeamORGA-App:
 * [API](http://localhost:4400)
 * [Desktop Client](http://localhost:4401)
 * [Mobile Client](http://localhost:4402)
+* [TestAuth Client](http://localhost:4411)
 * [Test App](http://localhost:4410)
-* [Auth Test App](http://localhost:4411)
 
 ## DEV
 
