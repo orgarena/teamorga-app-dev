@@ -14,9 +14,11 @@ Links zur TeamORGA-App:
 * [Desktop Client team-orga.app](https://client-dev.team-orga.app)
 * [Mobile Client team-orga.app](https://mobile-dev.team-orga.app)
 * [TestAuth Client team-orga.app](https://testauth-dev.team-orga.app)
+* [Android](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/android.install.html)
 * [Android APK](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile-dev.apk)
-* [B04 DEV Android](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/teamorga-apps-mobile-b04dev.apk)
 * [B04 DEV iOS](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/ios.install.html)
+* [B04 DEV Android](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/android.install.html)
+* [B04 DEV Android APK](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/teamorga-apps-mobile-b04dev.apk)
 
 ## PROD
 
@@ -24,9 +26,11 @@ Links zur TeamORGA-App:
 * [Desktop Client team-orga.de](https://client.team-orga.de)
 * [Mobile Client team-orga.de](https://mobile.team-orga.de)
 * [TestAuth Client team-orga.de](https://testauth.team-orga.de)
+* [Android](https://stbionzqccpizwa.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.prod/android.install.html)
 * [Android APK](https://stbionzqccpizwa.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.prod/teamorga-apps-mobile-prod.apk)
 * [B04 Landing](https://bayer04.team-orga.de)
-* [B04 PROD Android](https://stbionzqccpizwa.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.prod/teamorga-apps-mobile-b04prod.apk)
+* [B04 PROD Android](https://stbionzqccpizwa.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.prod/android.install.html)
+* [B04 PROD Android APK](https://stbionzqccpizwa.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.prod/teamorga-apps-mobile-b04prod.apk)
 * [B04 PROD iOS](https://stbionzqccpizwa.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.prod/ios.install.html)
 
 
