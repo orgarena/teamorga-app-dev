@@ -20,8 +20,6 @@ Links zur TeamORGA-App:
 * [B04 DEV Android](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/android.install.html)
 * [B04 DEV Android APK](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/teamorga-apps-mobile-b04dev.apk)
 
-* https://stpw3ats22msrco.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile-dev-0-2-2674.apk
-* https://stpw3ats22msrco.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile-dev-0-2-2681.apk
 
 ## PROD
 
