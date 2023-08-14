@@ -23,7 +23,6 @@ Links zur TeamORGA-App:
 * https://stpw3ats22msrco.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile-dev-0-2-2674.apk
 * https://stpw3ats22msrco.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile-dev-0-2-2681.apk
 
-* 
 ## PROD
 
 * [API team-orga.de](https://api.team-orga.de)
