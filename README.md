@@ -14,11 +14,11 @@
 * [Desktop Client team-orga.app](https://client-dev.team-orga.app)
 * [Mobile Client team-orga.app](https://mobile-dev.team-orga.app)
 * [TestAuth Client team-orga.app](https://testauth-dev.team-orga.app)
-* [Android](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/android.install.html)
-* [Android APK](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile-dev.apk)
-* [B04 DEV iOS](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/ios.install.html)
-* [B04 DEV Android](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/android.install.html)
-* [B04 DEV Android APK](https://stpw3ats22msrco.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/teamorga-apps-mobile-b04dev.apk)
+* [Android](https://st2tpezb2tay2abw.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/android.install.html)
+* [Android APK](https://st2tpezb2tay2abw.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile-dev.apk)
+* [B04 DEV iOS](https://st2tpezb2tay2abw.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/ios.install.html)
+* [B04 DEV Android](https://st2tpezb2tay2abw.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/android.install.html)
+* [B04 DEV Android APK](https://st2tpezb2tay2abw.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/teamorga-apps-mobile-b04dev.apk)
 
 ## PROD
 
