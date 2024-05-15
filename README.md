@@ -14,6 +14,13 @@
 * [Desktop Client team-orga.app](https://client-dev.team-orga.app)
 * [Mobile Client team-orga.app](https://mobile-dev.team-orga.app)
 * [TestAuth Client team-orga.app](https://testauth-dev.team-orga.app)
+* [Android](https://gateway-dev.team-orga.app/downloads/com.orgarena.teamorgaapp.dev/android.install.html)
+* [Android APK](https://gateway-dev.team-orga.app/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile-dev.apk)
+* [B04 DEV iOS](https://gateway-dev.team-orga.app/downloads/com.bayer04.teamorgaapp.dev/ios.install.html)
+* [B04 DEV Android](https://gateway-dev.team-orga.app/downloads/com.bayer04.teamorgaapp.dev/android.install.html)
+* [B04 DEV Android APK](https://gateway-dev.team-orga.app/downloads/com.bayer04.teamorgaapp.dev/teamorga-apps-mobile-b04dev.apk)
+
+
 * [Android](https://st2tpezb2tay2abw.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/android.install.html)
 * [Android APK](https://st2tpezb2tay2abw.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.dev/teamorga-apps-mobile-dev.apk)
 * [B04 DEV iOS](https://st2tpezb2tay2abw.blob.core.windows.net/downloads/com.bayer04.teamorgaapp.dev/ios.install.html)
@@ -26,6 +33,14 @@
 * [Desktop Client team-orga.de](https://client.team-orga.de)
 * [Mobile Client team-orga.de](https://mobile.team-orga.de)
 * [TestAuth Client team-orga.de](https://testauth.team-orga.de)
+* [Android](https://gateway.team-orga.de/downloads/com.orgarena.teamorgaapp.prod/android.install.html)
+* [Android APK](https://gateway.team-orga.de/downloads/com.orgarena.teamorgaapp.prod/teamorga-apps-mobile-prod.apk)
+* [B04 Landing](https://b04.team-orga.de)
+* [B04 PROD Android](https://gateway.team-orga.de/downloads/com.bayer04.teamorgaapp.prod/android.install.html)
+* [B04 PROD Android APK](https://gateway.team-orga.de/downloads/com.bayer04.teamorgaapp.prod/teamorga-apps-mobile-b04prod.apk)
+* [B04 PROD iOS](https://gateway.team-orga.de/downloads/com.bayer04.teamorgaapp.prod/ios.install.html)
+
+
 * [Android](https://st2cm4qp7g7tml46.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.prod/android.install.html)
 * [Android APK](https://st2cm4qp7g7tml46.blob.core.windows.net/downloads/com.orgarena.teamorgaapp.prod/teamorga-apps-mobile-prod.apk)
 * [B04 Landing](https://b04.team-orga.de)
