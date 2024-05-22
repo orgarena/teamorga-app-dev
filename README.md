@@ -32,6 +32,7 @@
 * [B04 PROD Android](https://gateway.team-orga.de/downloads/com.bayer04.teamorgaapp.prod/android.install.html)
 * [B04 PROD Android APK](https://gateway.team-orga.de/downloads/com.bayer04.teamorgaapp.prod/teamorga-apps-mobile-b04prod.apk)
 * [B04 PROD iOS](https://gateway.team-orga.de/downloads/com.bayer04.teamorgaapp.prod/ios.install.html)
+* [B04 PROD iOS direct install](https://gateway.team-orga.de/downloads/com.bayer04.teamorgaapp.prod/ios.install.html?install)
 
 ## MOBILE CALLBACKS
 
